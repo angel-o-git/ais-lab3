@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637935262 source:s:\labg7 ms\binary search\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+

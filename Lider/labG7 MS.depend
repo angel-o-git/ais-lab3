@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637933629 source:s:\labg7 ms\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+
